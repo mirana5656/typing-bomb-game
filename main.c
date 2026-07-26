@@ -1,10 +1,4 @@
-Project: Typing of the bombs.
-Description: a typing game where players destroy falling bombs by typing words.
-Student name: Mirana Rejepova
-Student id: 61240017 */
-
-// https://www.geeksforgeeks.org/compiler-design/what-is-cross-compiler/ - the link for cross-compilation, I read all information
-// using this link. 
+/* Project name: Typing the bombs */
 #define _CRT_SECURE_NO_WARNINGS // disable security warnings for standard C functions in Visual Studio
 #define _DEFAULT_SOURCE //enable POSIX features for cross-platform compatibility
 
