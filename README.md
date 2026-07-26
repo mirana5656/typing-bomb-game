@@ -14,7 +14,7 @@ A high-performace, real-time arcade typing simulation engine executed entirely w
 
 ## Installation & Compilation
 
-To compile the native binary, clone the repository and execute the cross-platform toolchain build pipeline:
+The project utilizes a unified CMake automation script to establish cross-platform targeted compilation. To compile the native binary and automatically deploy external assets, clone the repository and execute the toolchain pipeline:
 
 ```bash
 git clone [https://github.com/mirana5656/typing-bomb-game.git](https://github.com/mirana5656/typing-bomb-game.git)
@@ -22,3 +22,9 @@ cd typing-bomb-game
 mkdir build && cd build
 cmake ..
 cmake --build .
+
+## Technical Documentation
+For an in-depth look into the underlying software design, low-overhead atomic snapshot storage, and systemic memory control, read the comprehensive **[Technical Report (Report.pdf)](Report.pdf)** included directly within the repository root.
+
+## License
+This architecture is open-source software licensed under the terms of the **MIT License**. 
