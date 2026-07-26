@@ -1,4 +1,3 @@
-/* Programming for Engineers: project1.
 Project: Typing of the bombs.
 Description: a typing game where players destroy falling bombs by typing words.
 Student name: Mirana Rejepova
