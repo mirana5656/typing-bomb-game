@@ -22,6 +22,7 @@ cd typing-bomb-game
 mkdir build && cd build
 cmake ..
 cmake --build .
+```
 
 ## Technical Documentation
 For an in-depth look into the underlying software design, low-overhead atomic snapshot storage, and systemic memory control, read the comprehensive **[Technical Report (Report.pdf)](Report.pdf)** included directly within the repository root.
